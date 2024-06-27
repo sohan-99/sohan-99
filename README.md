@@ -2,6 +2,7 @@
 <h3 align="center">React Developer | Frontend Developer | MERN Stack Developer | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan-99&label=Profile%20views&color=0e75b6&style=flat" alt="sohan-99" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 👯 I’m looking to collaborate on **PUPC.**
 
