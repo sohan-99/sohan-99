@@ -2,8 +2,7 @@
 <h3 align="center">React Developer | Frontend Developer | MERN Stack Developer | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan-99&label=Profile%20views&color=0e75b6&style=flat" alt="sohan-99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohan-99" alt="sohan-99" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 - 👯 I’m looking to collaborate on **PUPC.**
 
