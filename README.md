@@ -75,16 +75,29 @@ Hi! I'm Sohanur Rahman Jahin, a MERN Stack Developer and competitive programmer.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohan-99&show_icons=true&theme=tokyonight" alt="sohan-99" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sohan-99&show_icons=true&theme=tokyonight&hide_title=true" 
+    alt="sohan-99" 
+    width="500"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan-99&theme=tokyonight" alt="sohan-99" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sohan-99&theme=tokyonight" 
+    alt="sohan-99" 
+    width="500"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan-99&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan-99&layout=compact&theme=tokyonight" 
+    alt="Top Langs" 
+    width="500"
+  />
 </p>
+
 
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=sohan-99)](https://github.com/ryo-ma/github-profile-trophy)
